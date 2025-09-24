@@ -1,41 +1,0 @@
-
-Sahil Singh
-Phone: +918377991210
-Email: sahil.k@adypu.edu.inGithub • CodeChef • LeetcodeEDUCATIONBachelor of Technology (Computer Science)2024 - 2028Newton School Of Technology, ADYPU, PuneGrade: 100.0%Intermediate (Class XII)2023 - 2024Kendriya Vidyalaya No 1 AFS HindanGrade: 92.0%Matriculation (Class X)2020 - 2021Kendriya Vidyalaya No 1 AFS HindanGrade: 82.0%PROJECTSDraconic Heights, ( Github ) ( Demo )March 2025
-• Objective- A fun climbing game where players must find safe paths marked by dragon eggs while avoiding dangerous traps to reach the top of the tower.
-• Insights- Players earn more points as they climb higher, making them choose between playing it safe or taking risks for a better score.
-• Skills/Tools Used- Built using HTML, CSS, and JavaScript.
-• Project Impact- Created an easy-to-play but challenging web game that keeps players engaged with clear goals, nice visuals, and a fantasy dragon theme that makes them want to play again.
-ArtSphere, ( Github ) ( Demo )	November 2024
-Our motive is basically to demonstrate difference arts of various artists We have used HTML, CSS, Js
-CERTIFICATIONS
-
-
-Generative AI for Everyone, DeepLearning.AI ( Link )	March 2025 I have Successfully completed the "Generative AI for Everyone" course by DeepLeaning.AI on Coursera. This course covered the fundamentals of generative AI, including large language models (LLMs), text and image generation, AI ethics, and responsible AI deployment. Gained insights into how generative AI is transforming industries and learned practical applications for leveraging AI effectively.
-AI For Everyone, DeepLearning.AI ( Link )	March 2025
-I have successfully completed the "AI For Everyone" course by DeepLearning.AI on Coursera. Got to Learn about AI concepts, its applications, and responsible AI practices. I would strongly suggest you to go through this course you will get to know about many things about AI taught by Andrew Ng.
-you can find the course here - https://www.coursera.org/programs/fundamentals-of-ai-qk4rf/learn/ai-for-everyone
-CodeChef Problem Solver Silver Badge, CodeChef ( Link )	February 2025 Earned the Problem Solver Silver Badge for solving 250 problems on CodeChef, showcasing strong problem-solving abilities and consistency in competitive programming.
-CodeChef Gold Streak Badge, CodeChef ( Link )	January 2025 Earned the Gold Streak Badge for maintaining a 50-day coding streak on CodeChef, demonstrating consistency, dedication, and problem-solving skills in competitive programming.
-CodeChef Pro Certificate of Completion, CodeChef ( Link )	January 2025 Successfully completed all 500 difficulty rating practice problems on CodeChef, enhancing problem-solving, algorithmic thinking, and competitive programming skills.
-
-SKILLS
-
-Computer Languages: Python, JavaScript, CSS, HTML
-Software Packages: MySQL, Excel, React
-Others: Photoshop
-
-EXTRA-CURRICULAR ACTIVITIES
-
-• Competitive Programming
-AI/ML: Participated in hackathons like Smart India Hackathon (SIH) and completed multiple certifications in AI and software development.
-
-• Game Development Enthusiast: Passionate about developing games using Unreal Engine, Amazon Lumberyard, and CryEngine.
-• Esports Achievements: Won multiple Valorant and BGMI tournaments, showcasing strategic thinking and teamwork in high-pressure environments.
-• Football Player: Served as a Center Forward for my school football team and played at the U-17 level.
-• Leadership
-Innovation: Led a team to develop 'The Memory Saver', an AI-driven project preserving user memories.
-• Tech Events
-Learning: Enthusiastic about organizing and participating in tech events, hackathons, and coding competitions.
-• Sci-Fi
-Adventure Enthusiast: Enjoys watching sci-fi movies and adventurous series, exploring futuristic concepts and storytelling.
